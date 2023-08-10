@@ -64,24 +64,24 @@
 
 - **Database**:
   
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&&nbsp;&nbsp;logo=microsoft%20sql%20server&logoColor=white)&nbsp;&nbsp;
-![ClickHouse](https://img.shields.io/badge/ClickHouse-EA2328?style=for-the-badge)
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
+    ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;&nbsp;
+    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&&nbsp;&nbsp;logo=microsoft%20sql%20server&logoColor=white)&nbsp;&nbsp;
+    ![ClickHouse](https://img.shields.io/badge/ClickHouse-EA2328?style=for-the-badge)
 
 <br>
 
 - **Others**:
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MobileNet](https://img.shields.io/badge/MobileNet-%23d74c4c.svg?style=for-the-badge)
-![OpenMetadata](https://img.shields.io/badge/OpenMetadata%20assistant-4285F4?style=for-the-badge)
-![Marquez](https://img.shields.io/badge/Marquez-EF3939?style=for-the-badge)
-![OpenMV](https://img.shields.io/badge/OpenMV-%23000B25.svg?style=for-the-badge)
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+    ![MobileNet](https://img.shields.io/badge/MobileNet-%23d74c4c.svg?style=for-the-badge)
+    ![OpenMetadata](https://img.shields.io/badge/OpenMetadata%20assistant-4285F4?style=for-the-badge)
+    ![Marquez](https://img.shields.io/badge/Marquez-EF3939?style=for-the-badge)
+    ![OpenMV](https://img.shields.io/badge/OpenMV-%23000B25.svg?style=for-the-badge)
 
 
 </p>
