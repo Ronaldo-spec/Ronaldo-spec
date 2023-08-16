@@ -4,7 +4,7 @@
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 350px>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hallooooo...&hearts;++;Fresh+Graduate.;Sarjana+Terapan+Komputer,;Politeknik+Negeri+Malang.;Active+Learner/Researcher,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hallooooo...&hearts;++;Fresh+Graduate,;Lulusan+D-IV+Teknik Informatika;Politeknik+Negeri+Malang.;Active+Learner/Researcher, saat+ini+sedang+mempelajari+bahasa+C;"></a>
 </p>
 
 
