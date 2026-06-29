@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Programmer;Business+Analyst;ERP+%26+Application+Support;SQL+Reporting;Data+Analyst;Open+to+Remote%2C+Part-Time+%26+Contract+Work">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Programmer;Business+Analyst;ERP+%26+Application+Support;SQL+Reporting;Data+Analyst;Project+Management+Support;Open+to+Remote%2C+Part-Time+%26+Contract+Work">
   </a>
 </p>
 
@@ -29,6 +29,7 @@
 * 👨‍💻 Programmer with experience in PHP, JavaScript, AJAX, MySQL, Laravel, and API integration.
 * 🧩 Business Analyst / ERP Support with experience in user requirement analysis, workflow documentation, SQL reporting, and application support.
 * 📊 Data-oriented professional with experience in Excel, SQL, Python, RStudio, and Power BI learning projects.
+* 🧭 Project documentation exposure through project charter, stakeholder analysis, project plan, quality evaluation, retrospective, and closeout reporting.
 * 🛠️ Experienced in troubleshooting system issues, validating data/transactions, and explaining solutions to users and stakeholders.
 * 🌐 Open to remote, part-time, contract, freelance, and project-based opportunities.
 * 🤖 Currently expanding my skills in data analysis, Power BI, AI training, data annotation, and AI response evaluation.
@@ -102,6 +103,7 @@
 * 📈 Power BI Dashboard
 * 📝 Technical Documentation
 * 🔄 Business Process Documentation
+* 🧭 Project Management Support
 * 🤖 AI Trainer / Data Annotation
 
 <br>
@@ -114,23 +116,23 @@
 
 <br>
 
-### 📊 Google Data Analytics Capstone
+### 📊 [Cyclistic Bike-Share Data Analysis](https://github.com/Ronaldo-spec/Ronaldo-spec-cyclistic-bike-share-data-analysis)
 
-Data analysis project using Excel, SQL, Python, and RStudio for data cleaning, validation, analysis, and visualization.
+End-to-end data analysis project using Excel, SQL, Python, and RStudio for data cleaning, validation, analysis, visualization, and business recommendation.
 
-### 🗄️ SQL Data Cleaning & Transformation
+### 🧭 [Google Project Management: Sauce & Spoon Case Study](https://github.com/Ronaldo-spec/google-project-management-sauce-spoon-case-study)
 
-SQL-based data cleaning and transformation project, including raw data processing, column transformation, filtering, validation, and analysis preparation.
+Project management case study covering project charter, stakeholder analysis, project plan, quality standards, evaluation, retrospective documentation, stakeholder communication, and closeout reporting.
 
-### 💬 WhatsApp Corporate API
+### 🎧 [OpenMusic API V2](https://github.com/Ronaldo-spec/OpenMusic-API-V2)
 
-Web application feature and API integration project using PHP, JavaScript, AJAX, and MySQL to support automated customer notifications.
+Backend API project using Node.js, Hapi.js, PostgreSQL, JWT authentication, validation, and modular service structure.
 
-### 🏦 Virtual Account Integration
+### 📚 [Bookshelf API](https://github.com/Ronaldo-spec/Bookshelf-api)
 
-Payment integration project involving API integration, database structure, transaction testing, and coordination with internal teams and banking partners.
+REST API project demonstrating CRUD endpoints, validation, filtering, structured JSON responses, and API endpoint design.
 
-### 🐟 Computer Vision Classification
+### 🐟 [Computer Vision Classification](https://github.com/Ronaldo-spec/Skripsi)
 
 Computer vision project for catfish fry size classification using CNN, MobileNetV2, Python, TensorFlow/Keras, and OpenMV Cam.
 
