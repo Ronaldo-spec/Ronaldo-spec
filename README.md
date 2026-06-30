@@ -120,7 +120,7 @@
 
 End-to-end data analysis project using Excel, SQL, Python, and RStudio for data cleaning, validation, analysis, visualization, and business recommendation.
 
-### 🐟 [Catfish Fry Size Classification using CNN and OpenMV](https://github.com/Ronaldo-spec/Skripsi)
+### 🐟 [Catfish Fry Size Classification using CNN and OpenMV](https://github.com/Ronaldo-spec/catfish-fry-size-classification-cnn-openmv)
 
 Original computer vision thesis project using CNN, MobileNetV2, TensorFlow/Keras, TensorFlow Lite, and OpenMV Cam H7+ for catfish fry size classification.
 
