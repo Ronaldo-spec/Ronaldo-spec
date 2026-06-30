@@ -120,6 +120,10 @@
 
 End-to-end data analysis project using Excel, SQL, Python, and RStudio for data cleaning, validation, analysis, visualization, and business recommendation.
 
+### 🐟 [Catfish Fry Size Classification using CNN and OpenMV](https://github.com/Ronaldo-spec/Skripsi)
+
+Original computer vision thesis project using CNN, MobileNetV2, TensorFlow/Keras, TensorFlow Lite, and OpenMV Cam H7+ for catfish fry size classification.
+
 ### 🧭 [Google Project Management: Sauce & Spoon Case Study](https://github.com/Ronaldo-spec/google-project-management-sauce-spoon-case-study)
 
 Project management case study covering project charter, stakeholder analysis, project plan, quality standards, evaluation, retrospective documentation, stakeholder communication, and closeout reporting.
@@ -131,10 +135,6 @@ Backend API project using Node.js, Hapi.js, PostgreSQL, JWT authentication, vali
 ### 📚 [Bookshelf API](https://github.com/Ronaldo-spec/Bookshelf-api)
 
 REST API project demonstrating CRUD endpoints, validation, filtering, structured JSON responses, and API endpoint design.
-
-### 🐟 [Computer Vision Classification](https://github.com/Ronaldo-spec/Skripsi)
-
-Computer vision project for catfish fry size classification using CNN, MobileNetV2, Python, TensorFlow/Keras, and OpenMV Cam.
 
 <br>
 
