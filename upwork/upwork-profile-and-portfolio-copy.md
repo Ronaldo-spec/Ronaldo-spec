@@ -1,6 +1,6 @@
 # Upwork Profile & Portfolio Copy
 
-This file contains copy-ready content for an Upwork profile based on my background in ERP/application support, SQL reporting, business analysis, application support, backend development, and data analytics.
+This file contains copy-ready content for an Upwork profile based on my background in ERP/application support, SQL reporting, business analysis, application support, backend development, project management support, and data analytics.
 
 ## Main Profile Title
 
@@ -21,6 +21,7 @@ My strongest areas include:
 - Root cause analysis for system or transaction issues
 - Excel, SQL, Python, and data analysis projects
 - PHP, JavaScript, AJAX, MySQL, Laravel, and backend/API support
+- Project documentation and Agile/Scrum support
 
 I am best suited for clients who need someone who can understand business operations, inspect system or data problems, write reports, document workflows, and communicate solutions clearly.
 
@@ -37,6 +38,7 @@ I can help with:
 - Building portfolio-style data analysis reports
 - Supporting PHP/MySQL-based web applications
 - Reviewing system requirements and translating them into technical tasks
+- Preparing project documentation, risk notes, stakeholder communication plans, and retrospective summaries
 
 ## Work Style
 
@@ -133,7 +135,20 @@ Business Analysis, SOP, Flowchart, Documentation, Process Mapping
 **Project Link:**
 https://github.com/Ronaldo-spec/Ronaldo-spec/blob/main/case-studies/business-process-documentation-sop-flowchart.md
 
-## Portfolio Item 4 — Cyclistic Bike-Share Data Analysis
+## Portfolio Item 4 — Google Project Management: Sauce & Spoon Case Study
+
+**Role:** Project Management Analyst
+
+**Description:**
+Project management case study covering project charter, stakeholder analysis, project planning, risk management, quality standards, Agile/Scrum, retrospective documentation, and closeout reporting. This project demonstrates structured planning, stakeholder communication, project documentation, and risk-aware execution support.
+
+**Skills & Deliverables:**
+Project Management, Agile, Scrum, Risk Management, Documentation
+
+**Project Link:**
+https://github.com/Ronaldo-spec/google-project-management-sauce-spoon-case-study
+
+## Portfolio Item 5 — Cyclistic Bike-Share Data Analysis
 
 **Role:** Data Analyst
 
@@ -146,7 +161,7 @@ SQL, Python, Excel, Data Analysis, Business Recommendations
 **Project Link:**
 https://github.com/Ronaldo-spec/Ronaldo-spec-cyclistic-bike-share-data-analysis
 
-## Portfolio Item 5 — Catfish Fry Size Classification using CNN and OpenMV
+## Portfolio Item 6 — Catfish Fry Size Classification using CNN and OpenMV
 
 **Role:** Computer Vision Developer
 
@@ -159,7 +174,7 @@ Python, TensorFlow, Computer Vision, Machine Learning, OpenMV
 **Project Link:**
 https://github.com/Ronaldo-spec/catfish-fry-size-classification-cnn-openmv
 
-## Portfolio Item 6 — OpenMusic API V2
+## Portfolio Item 7 — OpenMusic API V2
 
 **Role:** Backend Developer
 
