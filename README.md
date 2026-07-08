@@ -57,6 +57,12 @@ Sanitized process documentation case study covering workflow analysis, SOP struc
 
 Link: https://github.com/Ronaldo-spec/Ronaldo-spec/blob/main/case-studies/business-process-documentation-sop-flowchart.md
 
+### Google Project Management: Sauce & Spoon Case Study
+
+Project management case study covering project charter, stakeholder analysis, project planning, risk management, Agile/Scrum, retrospective documentation, and closeout reporting.
+
+Link: https://github.com/Ronaldo-spec/google-project-management-sauce-spoon-case-study
+
 ### Cyclistic Bike-Share Data Analysis
 
 End-to-end data analysis project using Excel, SQL, Python, and RStudio for data cleaning, validation, analysis, visualization, and business recommendation.
