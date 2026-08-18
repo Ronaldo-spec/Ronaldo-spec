@@ -4,24 +4,6 @@ Technology professional focused on **ERP/application support, SQL reporting, bus
 
 I help teams turn operational problems into clear technical actions: understanding user needs, checking data, preparing SQL reports, investigating system issues, documenting workflows, and explaining the root cause, solution, impact, and current status to users or stakeholders.
 
-## The Broken Promise of Indonesia 2045: A Data-Driven Analysis
-
-An end-to-end, evidence-led assessment of Indonesia's progress, readiness, and remaining gaps toward the **Indonesia Emas 2045** vision. The project evaluates **39 indicators represented by 49 analytical series across eight domains**, combining historical change, common-year peer benchmarking, compatible official targets, relationship assessment, selective forecasting, reproducible notebooks, and cross-domain synthesis.
-
-The final evidence shows a recurring pattern: Indonesia has achieved meaningful domestic progress, but convergence, structural depth, outcome quality, institutional capability, and target proximity remain uneven. The project includes a complete Indonesian analytical report, a standalone English Portfolio Report, seven canonical visualizations, eight evidence-led findings, six traceable recommendations, and fully committed analytical outputs.
-
-**Project highlights:**
-
-- 39 indicators and 49 registered analytical series across eight domains.
-- Historical trends, official-target gaps, and compatible peer comparisons.
-- Theory-driven relationship assessment and method eligibility gates.
-- Selective forecasting with uncertainty and explicit analytical boundaries.
-- Eight canonical findings, six recommendations, and seven final visualizations.
-- 24/24 synthesis validation checks passed.
-
-**Repository:** https://github.com/Ronaldo-spec/indonesia-2045-data-driven-analysis  
-**English Portfolio Report:** https://github.com/Ronaldo-spec/indonesia-2045-data-driven-analysis/blob/main/docs/The_Broken_Promise_of_Indonesia_2045_EN.pdf
-
 ## Core Focus
 
 - **ERP & Application Support** — user support, workflow checking, report validation, and issue follow-up.
@@ -56,6 +38,15 @@ MySQL, MariaDB, PostgreSQL, Microsoft SQL Server, SQL Reporting, Excel, RStudio,
 ERP Support, Application Support, Business Analysis, Root Cause Analysis, SOP, Flowchart, Technical Documentation, Project Documentation
 
 ## Featured Case Studies & Projects
+
+### The Broken Promise of Indonesia 2045: A Data-Driven Analysis
+
+An end-to-end, evidence-led assessment of Indonesia's progress, readiness, and remaining gaps toward the **Indonesia Emas 2045** vision. The project evaluates **39 indicators represented by 49 analytical series across eight domains**, combining historical change, common-year peer benchmarking, compatible official targets, relationship assessment, selective forecasting, reproducible notebooks, and cross-domain synthesis.
+
+The final evidence shows meaningful domestic progress alongside uneven convergence, structural depth, outcome quality, institutional capability, and target proximity. Deliverables include a complete Indonesian analytical report, a standalone English Portfolio Report, eight evidence-led findings, six traceable recommendations, seven canonical visualizations, and 24/24 passed synthesis validation checks.
+
+Repository: https://github.com/Ronaldo-spec/indonesia-2045-data-driven-analysis  
+English Portfolio Report: https://github.com/Ronaldo-spec/indonesia-2045-data-driven-analysis/blob/main/docs/The_Broken_Promise_of_Indonesia_2045_EN.pdf
 
 ### ERP SQL Reporting & Application Support — Sanitized Case Study
 
