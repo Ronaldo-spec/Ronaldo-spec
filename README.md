@@ -4,9 +4,7 @@ Technology professional focused on **ERP/application support, SQL reporting, bus
 
 I help teams turn operational problems into clear technical actions: understanding user needs, checking data, preparing SQL reports, investigating system issues, documenting workflows, and explaining the root cause, solution, impact, and current status to users or stakeholders.
 
-## Flagship Project
-
-### The Broken Promise of Indonesia 2045: A Data-Driven Analysis
+## The Broken Promise of Indonesia 2045: A Data-Driven Analysis
 
 An end-to-end, evidence-led assessment of Indonesia's progress, readiness, and remaining gaps toward the **Indonesia Emas 2045** vision. The project evaluates **39 indicators represented by 49 analytical series across eight domains**, combining historical change, common-year peer benchmarking, compatible official targets, relationship assessment, selective forecasting, reproducible notebooks, and cross-domain synthesis.
 
