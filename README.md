@@ -48,6 +48,15 @@ The final evidence shows meaningful domestic progress alongside uneven convergen
 Repository: https://github.com/Ronaldo-spec/indonesia-2045-data-driven-analysis  
 English Portfolio Report: https://github.com/Ronaldo-spec/indonesia-2045-data-driven-analysis/blob/main/docs/The_Broken_Promise_of_Indonesia_2045_EN.pdf
 
+### Portfolio Power: Which FMCG Group Wins Across Indonesia's Consumer Market?
+
+A comparative market-analysis project examining the brand portfolios of **Wings Group, Indofood, Mayora, and Unilever Indonesia** across Indonesia's consumer market. The analysis separates portfolio breadth, selected category leadership, longitudinal stability, momentum, competitive persistence, and documented business-action evidence rather than collapsing unlike metrics into a single score.
+
+The validated results show different strengths across the four groups: **Indofood leads verified strict-control brand-family breadth with 38 brand families**, narrowly ahead of Wings Group at 37; **Unilever Indonesia leads 3 of 5 selected complete 2026 focal categories**; and **Wings Group leads observed stability in 4 of 5 comparable historical blocks**. Indofood and Unilever Indonesia share momentum leadership, while the evidence does not support one universal overall winner. The repository includes reproducible analytical outputs, final visualizations, validation artifacts, and complete Indonesian and English reports.
+
+Repository: https://github.com/Ronaldo-spec/indonesia-fmcg-brand-portfolio-analysis  
+English Portfolio Report: https://github.com/Ronaldo-spec/indonesia-fmcg-brand-portfolio-analysis/blob/main/docs/Portfolio_Power_Indonesia_FMCG_Portfolio_EN.pdf
+
 ### ERP SQL Reporting & Application Support — Sanitized Case Study
 
 Sanitized professional case study covering ERP support, SQL reporting, data validation, user issue analysis, workflow checking, and stakeholder communication.
