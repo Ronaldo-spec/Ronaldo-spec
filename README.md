@@ -39,6 +39,14 @@ ERP Support, Application Support, Business Analysis, Root Cause Analysis, SOP, F
 
 ## Featured Case Studies & Projects
 
+### The Real Cost of Being an Ojol Driver: What’s Left After a Day on the Road?
+
+An evidence-led unit-economics analysis of app-based motorcycle drivers in Indonesia, examining reported earnings, application deductions, operating-cost evidence, work intensity, and the limits of reconstructing net operating earnings across heterogeneous sources. The project keeps gross earnings, driver receipts, platform deductions, personal spending, operating costs, regulatory rules, and realized transaction evidence analytically separate instead of forcing them into one headline number.
+
+Validated findings include source-specific income distributions, seven-day workweek prevalence, reported 20% deduction-category prevalence, and two gross unit-economics rates from aligned IDEAS 2023 source means: **Rp15,272.73 per source-reported working hour** and **Rp16,800 per completed order**. The analysis also documents why project net operating earnings, realized transaction-level deduction rates, per-kilometer net earnings, a multi-input sensitivity model, and an overall economic-sustainability verdict are not defensibly computable from the available evidence. The repository preserves reproducible notebooks, source and comparability records, validated visualizations, regulatory reconciliation, and an explicit evidence-gap register.
+
+Repository: https://github.com/Ronaldo-spec/indonesia-ojol-driver-economics-analysis
+
 ### The Broken Promise of Indonesia 2045: A Data-Driven Analysis
 
 An end-to-end, evidence-led assessment of Indonesia's progress, readiness, and remaining gaps toward the **Indonesia Emas 2045** vision. The project evaluates **39 indicators represented by 49 analytical series across eight domains**, combining historical change, common-year peer benchmarking, compatible official targets, relationship assessment, selective forecasting, reproducible notebooks, and cross-domain synthesis.
